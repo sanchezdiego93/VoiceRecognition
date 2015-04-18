@@ -7,7 +7,8 @@ package voicerecognition;
 
 /**
  *
- * @author Diego
+ * @author Diego Sanchez
+ * @author Stanley Zapata
  */
 public class VoiceRecognition {
 
@@ -15,9 +16,9 @@ public class VoiceRecognition {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+
         
-        //Test
+        
     }
     
 }
